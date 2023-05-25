@@ -40,7 +40,9 @@ $ cd catkin_ws/
 ~/catkin_ws$ roslaunch stage_controller launcher.launch
 ```
 Assim vai abrir a janela a seguir: 
-![Screenshot from 2023-05-24 13-16-06](https://github.com/jardelprad0/stage_controller/assets/61805544/6bb63beb-8d87-40d5-b465-5792dfd39e88)
+
+
+![Captura da tela Stage](https://github.com/jardelprad0/stage_controller/assets/61805544/6bb63beb-8d87-40d5-b465-5792dfd39e88)
 
 8. Com isso feito vamos abrir outro terminal e executar os comandos 1 e 2, depois vamos executar nosso codigo para fazer o robo se movimentar:
 ```sheel
@@ -48,5 +50,8 @@ Assim vai abrir a janela a seguir:
 ```
 
 ## Pronto! Seu robô esta se movendo até o 'target' definido no código :)
+
+![giphy](https://github.com/jardelprad0/stage_controller/assets/61805544/32306fba-a1fb-4e22-aa1b-d14cfa8d8580)
+
 
 ### Link do Vídeo  : https://youtu.be/XEvFqXbvWAI
