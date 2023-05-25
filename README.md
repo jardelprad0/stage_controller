@@ -47,4 +47,4 @@ Assim vai abrir a janela a seguir:
 ~/catkin_ws$ rosrun stage_controller stage_controller.py
 ```
 
-## Pronto! Seu robô esta se movenndo até o target definido no codigo :)
+## Pronto! Seu robô esta se movendo até o 'target' definido no código :)
