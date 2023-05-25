@@ -51,7 +51,8 @@ Assim vai abrir a janela a seguir:
 
 ## Pronto! Seu robô esta se movendo até o 'target' definido no código :)
 
-![giphy](https://github.com/jardelprad0/stage_controller/assets/61805544/32306fba-a1fb-4e22-aa1b-d14cfa8d8580)
+![giphy (1)](https://github.com/jardelprad0/stage_controller/assets/61805544/0d1a41a8-56c1-4b13-a0ac-3b4ddf84e91e)
+
 
 
 ### Link do Vídeo  : https://youtu.be/XEvFqXbvWAI
